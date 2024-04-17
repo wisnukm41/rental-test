@@ -12,7 +12,8 @@ Node 18.17.1
 4. Run `php artisan key:generate`
 5. Run `php artisan migrate`
 6. For Test ~ Run `php artisan db:seed`
-7. Run `npm run dev`
-8. Run `php artisan serve`
+7. Run `php artisan storage:link`
+9. Run `npm run dev`
+10. Run `php artisan serve`
 
 Enjoy
